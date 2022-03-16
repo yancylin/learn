@@ -8,6 +8,10 @@
     "types": ["jest"],
     "strict": true,
     "skipLibCheck": true,
-    "declaration": true
+    "declaration": true,
+    "paths": {
+      "@pro/Button": "./packages/Button/src/index.tsx",
+      "@pro/Tag": "./packages/Tag/src/index.tsx"
+    }
   }
 }
