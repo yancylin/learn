@@ -16,7 +16,8 @@
   "module": "es/index.js",
   "typings": "es/index.d.ts",
   "gitHooks": {
-    "pre-commit": "lint-staged"
+    "pre-commit": "lint-staged",
+    "commit-msg": "fabric verify-commit"
   },
   "lint-staged": {
     "*.{js,jsx,less,md,json}": [

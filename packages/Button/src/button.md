@@ -15,13 +15,13 @@ group:
 
 <code src="./demos/type.tsx"  title="按钮类型"  />
 
-### 按钮大小 1
+### 按钮大小
 
-<code src="./demos/size.tsx"  title="按钮大小"   />
+<code src="./demos/size.tsx"    />
 
 ### 按钮形状
 
-<code src="./demos/shape.tsx"  title="按钮形状"   />
+<code src="./demos/shape.tsx"   />
 
 ## API
 

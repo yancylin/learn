@@ -1,14 +1,10 @@
 ---
-title: md base
-
+title: markDown 基本语法
 nav:
-  path: /markdown
-  title: markdown
+  path: /mark-down
   order: 1
-
 group:
-  path: /
-  title: md 示例
+  path: /mark-down
   order: 1
 ---
 

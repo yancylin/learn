@@ -1,15 +1,11 @@
 ---
-title: md example
-
+title: markDown 案列
 nav:
-  path: /markdown
-  title: markdown
+  path: /mark-down
   order: 1
-
 group:
-  path: /
-  title: md 示例
-  order: 1
+  path: /mark-down
+  order: 200
 ---
 
 ## 横向流程图源码格式：
