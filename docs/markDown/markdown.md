@@ -1,10 +1,11 @@
 ---
-title: markDown 基本语法
+title: 基本语法
 nav:
   path: /mark-down
-  order: 1
+  order: 2
 group:
-  path: /mark-down
+  path: /mark-down/markdown
+  title: 基本语法
   order: 1
 ---
 

@@ -1,11 +1,13 @@
 ---
-title: markDown 案列
+title: 案列
 nav:
   path: /mark-down
-  order: 1
+  title: markDown
+  order: 2
 group:
-  path: /mark-down
-  order: 200
+  path: /mark-down/example
+  title: 案列
+  order: 2
 ---
 
 ## 横向流程图源码格式：
