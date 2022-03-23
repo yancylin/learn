@@ -2,8 +2,8 @@ import { defineConfig } from 'dumi';
 
 export default defineConfig({
   title: 'learn',
-  favicon: '/images/logo.png',
-  logo: '/images/logo.png',
+  favicon: 'https://raw.githubusercontent.com/yancylin/learn/master/public/images/logo.png',
+  logo: 'https://raw.githubusercontent.com/yancylin/learn/master/public/images/logo.png',
   outputPath: 'docs-dist',
   mode: 'site',
   base: '/learn',
