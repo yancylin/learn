@@ -1,14 +1,4 @@
----
-title: 案列
-nav:
-  path: /mark-down
-  title: markDown
-  order: 2
-group:
-  path: /mark-down/example
-  title: 案列
-  order: 2
----
+# 特殊示例
 
 ## 横向流程图源码格式：
 

@@ -1,15 +1,3 @@
----
-title: 类型
-nav:
-  path: /ts
-  title: TypeScript
-  order: 1
-group:
-  path: /ts/types
-  title: 类型
-  order: 1
----
-
 # 数据类型
 
 ts 中的数据类型

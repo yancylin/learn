@@ -5,7 +5,7 @@ export default defineConfig({
   favicon: 'https://raw.githubusercontent.com/yancylin/learn/master/public/images/logo.png',
   logo: 'https://raw.githubusercontent.com/yancylin/learn/master/public/images/logo.png',
   outputPath: 'docs-dist',
-  mode: 'site',
+  mode: 'doc',
   base: '/learn',
   publicPath: '/learn/',
   // exportStatic: {

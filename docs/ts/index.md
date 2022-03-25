@@ -1,14 +1,4 @@
----
-title: 接口
-nav:
-  path: /ts
-  title: TypeScript
-  order: 1
-group:
-  path: /ts/interface
-  title: 接口
-  order: 2
----
+# 接口
 
 用于检验参数的合法性
 
